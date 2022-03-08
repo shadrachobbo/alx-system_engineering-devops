@@ -1,0 +1,2 @@
+[1;5s[1;5q#!/bin/bash
+echo $PATH | tr ":" "\n" | wc -l
